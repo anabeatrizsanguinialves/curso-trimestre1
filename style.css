@@ -1,0 +1,102 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.cabeçalho {
+    background-color:#f0f0f0ea;
+    color:rgb(238, 12, 50);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 24px 0;
+}
+
+.cabeçalho-imagem{
+    width: 70%;
+
+}
+
+.cabeçalho-1{
+    display: inline-block;
+    margin: 0 16px;
+    font-size: 30px;
+    padding: 16px 0;
+}
+
+.cabeçalho-2{
+    display: inline-block;
+    margin: 0 16px;
+    font-size: 30px;
+}
+.ilustrando-o-teorema{
+    width: 25%;
+}
+
+.curiosidades-Pitágoras{
+    background-image: linear-gradient(#f0f0f0ea, #e400ab63);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 26px 0;
+}
+
+.curiosidades-div-Teorema-de-Pitágoras{
+    width: 60%;
+    font-family: 'Quicksand', sans-serif;
+}
+
+.Teorema-de-Pitágoras{
+    padding: 24px 0;
+    font-family: 'Instrument Serif', serif;
+}
+
+.imagem-do-fatorial{
+    width: 25%;
+}
+
+.curiosidades-fatorial{
+    background-image: linear-gradient(#e400ab63,#f0f0f0ea);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 26px 0;
+}
+
+.curiosidades-div-fatorial{
+    width: 60%;
+    font-family:'Quicksand',sans-serif;
+}
+
+.Fatorial{
+    padding: 24px 0;
+    font-family: 'Instrument Serif',serif;
+}
+
+.rodapé{
+    background-color: white;
+    text-align: center;
+}
+
+.rodapé-imagem{
+    height: 70px;
+    padding: 12px 0;
+}
+
+.links{
+    background-image: linear-gradient(#f0f0f0ea,#e400ab63);
+    display: flex;
+    justify-content:space-around;
+    align-items: center
+    padding: 26px 0;
+}
+
+.links-div{
+    width: 60%;
+    font-family: 'Dancing Script', cursive;
+}
+
+.acesse-para-saber-mais{
+    padding: 24px 0;
+    font-family: 'Quicksand', sans-serif;
+}
